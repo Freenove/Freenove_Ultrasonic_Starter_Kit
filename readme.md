@@ -1,4 +1,4 @@
-## Freenove Ultrasonic Starter Kit for Arduino
+## Freenove Ultrasonic Starter Kit
 
 A kit with a control board (compatible with Arduino® IDE) for learning programming and electronics.
 
